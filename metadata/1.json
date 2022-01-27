@@ -1,10 +1,21 @@
 {
-    "title": "Thor",
-    "name": "Thor",
-    "type": "object",
-    "imageUrl": "ipfs://QmSg4AgCs6DSzKGYAHcqWzjoA5DzDsDDw1yYTWkBJHQJ6J",
-    "description": "Thor",
+    "title": "Metopia Club NFT",
+    "name":  "Metopia Club NFT # 1",
+    "description": "Metopia Club NFT # 1 description",
     "id": 1,
-    "image": "ipfs://QmSg4AgCs6DSzKGYAHcqWzjoA5DzDsDDw1yYTWkBJHQJ6J",
-    "httpUrl": "https://ipfs.io/ipfs/QmSg4AgCs6DSzKGYAHcqWzjoA5DzDsDDw1yYTWkBJHQJ6J"
+    "image": "https://raw.githubusercontent.com/bengbengle/metopia-club-nft/main/imgs/1.png",
+    "atrributes": [
+        {
+            "trait_type": "ChainType",
+            "value": "Rinkeby"
+        },
+        {
+            "trait_type": "NftAddr",
+            "value": "0x01....."
+        },
+        {
+            "trait_type": "TokenID",
+            "value": "1"
+        }
+    ]
 }
