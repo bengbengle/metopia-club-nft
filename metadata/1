@@ -1,0 +1,20 @@
+{
+    "title": "Metopia Club NFT",
+    "name":  "Metopia Club NFT # 1",
+    "description": "Metopia Club NFT # 1 description",
+    "image": "https://raw.githubusercontent.com/bengbengle/metopia-club-nft/main/imgs/1.png",
+    "atrributes": [
+        {
+            "trait_type": "ChainType",
+            "value": "Rinkeby"
+        },
+        {
+            "trait_type": "NftAddr",
+            "value": "0x01....."
+        },
+        {
+            "trait_type": "TokenID",
+            "value": "1"
+        }
+    ]
+}
